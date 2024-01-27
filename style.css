@@ -45,6 +45,16 @@ body {
     font-family: "DM Sans", sans-serif;
 }
 
+.sidebar nav ul li a .inicio {
+    margin-left: 6px;
+}
+
+.sidebar nav ul li a .buscar {
+    margin-left: 6px;
+}
+
+
+
 .library {
     background-color: #121212;
     border-radius: 8px;
