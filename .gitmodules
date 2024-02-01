@@ -1,0 +1,3 @@
+[submodule "spotify-react"]
+	path = spotify-react
+	url = https://github.com/flp96/spotify-react.git
