@@ -1,4 +1,3 @@
-//BOM DIA | BOA TARDE | BOA NOITE
 
 // Obtém a referência do elemento com o ID "greeting"
 const greetingElement = document.getElementById("greeting");
