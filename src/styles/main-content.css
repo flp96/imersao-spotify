@@ -187,6 +187,10 @@ body {
   border-radius: 8px;
 }
 
+.cards:hover {
+  transform: scale(1.01);
+}
+
 .cards span {
   padding: 16px;
   position: absolute;

@@ -101,6 +101,11 @@ body {
     .library .library__content .fa-plus {
        margin: 24px 10px;
     }
+
+    .library .library__content .fa-plus:hover {
+        transform: scale(1.2);
+        cursor: pointer;
+     }
     
     .section-playlist {
         background-color: #242424;
@@ -152,6 +157,11 @@ body {
         justify-content: center;
         margin-top: 12px;
     }
+
+    .section-playlist__content .section-playlist__button:hover {
+        transform: scale(1.04);
+        cursor: pointer;
+    }
     
     .sidebar .cookies {
         margin: 25px 20px;
@@ -179,6 +189,10 @@ body {
         width: 170px;
         margin: 8px;
         font-weight: bold;
+    }
+
+    .languages .languages__button:hover {
+        transform: scale(1.04);
     }
     
     .disclaimer-premium {
